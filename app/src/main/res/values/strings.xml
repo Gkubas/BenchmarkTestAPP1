@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BenchmarkTestAPP</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">BenchmarkTest</string>
+    <string name="tab_text_1">Uruchom Benchmark</string>
+    <string name="tab_text_2">Testuj połączenie z bazą</string>
 </resources>
